@@ -20,7 +20,7 @@ This project is great for practicing **DOM manipulation, event handling, and bas
 
  ---
 
- 🌐 Live Demo: []
+## 🌐 Live Demo: [https://tic-tac-toe-36610c.netlify.app/]
 
 
 ## ▶️ How to Run the Project
