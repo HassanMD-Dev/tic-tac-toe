@@ -20,7 +20,7 @@ This project is great for practicing **DOM manipulation, event handling, and bas
 
  ---
 
-## 🌐 Live Demo
+ 🌐 Live Demo
 
 👉 (Deploy on Vercel or GitHub Pages)
 ---
