@@ -25,9 +25,9 @@ This project is great for practicing **DOM manipulation, event handling, and bas
    ```bash
    git clone https://github.com/HassanMD-Dev/tic-tac-toe.git
 
-   .
+   ---
 
-🌐 Live Demo
+##🌐 Live Demo
 
 👉 (Deploy on Vercel or GitHub Pages)
 
