@@ -8,7 +8,7 @@ This project is great for practicing **DOM manipulation, event handling, and bas
 ## 🚀 Features
 - Two-player game (Player X vs Player O)
 - Win detection
-- Reset game option
+- Reset and New game option
 - Clean and responsive design
 
 ---
