@@ -23,7 +23,8 @@ This project is great for practicing **DOM manipulation, event handling, and bas
 ## ▶️ How to Run the Project
    Clone the repository:
    ```bash
-   git clone https://github.com/HassanMD-Dev/tic-tac-toe.git
+   git clone https://github.com/HassanMD-Dev/tic-tac-toe.git.
+
 
    ---
 
